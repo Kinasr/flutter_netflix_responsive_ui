@@ -9,5 +9,5 @@
 ### The used Plugins:
 * [Flutter Bloc](https://pub.dev/packages/flutter_bloc)
 * [Video Player](https://pub.dev/packages/video_player)
-* [Responsive Bulider](https://pub.dev/packages/responsive_builder)
+* [Responsive Builder](https://pub.dev/packages/responsive_builder)
 * [Pedantic](https://pub.dev/packages/pedantic)
